@@ -1,0 +1,27 @@
+1
+00:00:09,420 --> 00:00:11,170
+Ciao a te.
+
+2
+00:00:11,420 --> 00:00:15,570
+Allora, il solito oggi, signore e signora?
+
+3
+00:00:17,020 --> 00:00:23,020
+Panino al formaggio grigliato con jalapeño e miele per lui, e hamburger vegetariano per lei.
+
+4
+00:00:23,020 --> 00:00:25,020
+Sai, non ho molta fame.
+
+5
+00:00:25,020 --> 00:00:27,020
+No, nemmeno io.
+
+6
+00:00:27,020 --> 00:00:30,020
+Che ne dite di un paio di quelle, ehm, birre al malto al doppio cioccolato, famose in tutto il mondo?
+
+7
+00:00:30,020 --> 00:00:32,020
+Ricevuto, capo.

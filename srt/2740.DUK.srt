@@ -1,0 +1,7 @@
+1
+00:00:04,560 --> 00:00:05,920
+Ti voglio bene, Blob.
+
+2
+00:00:07,160 --> 00:00:10,740
+E comunque vada, farò in modo che qualcuno si prenda cura di te.

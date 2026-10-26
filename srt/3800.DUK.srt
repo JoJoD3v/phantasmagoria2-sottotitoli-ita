@@ -1,0 +1,15 @@
+1
+00:00:01,780 --> 00:00:06,780
+Bob, ho ritrovato il mio documento. È stato piuttosto infantile da parte tua.
+
+2
+00:00:06,780 --> 00:00:10,780
+Di cosa parli, Craig? Non è colpa mia se non trovi i tuoi file.
+
+3
+00:00:10,780 --> 00:00:13,780
+Sì, beh, comunque sia. Non farlo più o te ne pentirai.
+
+4
+00:00:13,780 --> 00:00:16,780
+Ooh, è una minaccia? Mi fai paura.

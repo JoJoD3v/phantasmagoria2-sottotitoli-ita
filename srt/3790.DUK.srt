@@ -1,0 +1,11 @@
+1
+00:00:01,140 --> 00:00:05,140
+Bob, per caso sai cos'è successo alla rete questo pomeriggio?
+
+2
+00:00:05,140 --> 00:00:07,140
+Il mio documento sembra sparito.
+
+3
+00:00:07,140 --> 00:00:13,140
+Hai perso il documento? Un nuovo livello di incompetenza, persino per te.

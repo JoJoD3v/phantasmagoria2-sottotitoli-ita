@@ -1,0 +1,15 @@
+1
+00:00:01,070 --> 00:00:05,350
+Ehi, Bob. Se hai finito con i file Veneman, ti dispiace se li prendo in prestito per un'oretta?
+
+2
+00:00:06,570 --> 00:00:09,690
+Scordatelo, topo. Tanto non ti servirebbero comunque.
+
+3
+00:00:10,550 --> 00:00:15,070
+Sappiamo entrambi che la grossa promozione la prenderò io, quindi sparisci.
+
+4
+00:00:16,710 --> 00:00:19,750
+Grazie, Bob. Come sempre, un piacere.

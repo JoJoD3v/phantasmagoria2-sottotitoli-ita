@@ -1,0 +1,35 @@
+1
+00:00:12,270 --> 00:00:13,330
+Ma ciao, Curtis.
+
+2
+00:00:13,730 --> 00:00:14,330
+Salve, signor Warner.
+
+3
+00:00:14,730 --> 00:00:16,510
+Cosa posso fare per te, ragazzo mio?
+
+4
+00:00:17,130 --> 00:00:18,010
+Oh, niente, signore.
+
+5
+00:00:18,130 --> 00:00:21,680
+Cercavo solo un manuale di Word 8.
+
+6
+00:00:25,160 --> 00:00:25,840
+Tutto qui?
+
+7
+00:00:26,600 --> 00:00:28,040
+Sì. Sì, tutto qui.
+
+8
+00:00:28,740 --> 00:00:31,160
+Dirò al gruppo sistemi di mandartene uno subito.
+
+9
+00:00:31,780 --> 00:00:33,260
+Grande. Grazie.

@@ -1,0 +1,23 @@
+1
+00:00:01,940 --> 00:00:05,940
+Ehi, senti, devo andare. Ho un appuntamento a cena.
+
+2
+00:00:06,640 --> 00:00:09,340
+Qualcuno di nuovo? Dai, raccontami di lui.
+
+3
+00:00:09,480 --> 00:00:14,660
+No, ok. Si chiama Mike, l'ho conosciuto alla mostra dei preraffaelliti in centro.
+
+4
+00:00:15,460 --> 00:00:19,420
+Ed è intelligente, simpatico e carino da morire.
+
+5
+00:00:19,980 --> 00:00:22,920
+Fantastico. Beh, divertiti.
+
+6
+00:00:24,380 --> 00:00:25,300
+Ci proverò.

@@ -1,0 +1,11 @@
+1
+00:00:01,330 --> 00:00:02,690
+Stammi lontano!
+
+2
+00:00:02,690 --> 00:00:05,330
+Avvicinati un po', topo.
+
+3
+00:00:05,330 --> 00:00:08,205
+Hai qualcosa nell'occhio.

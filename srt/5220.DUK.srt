@@ -1,0 +1,11 @@
+1
+00:00:01,550 --> 00:00:05,710
+Sono Tom Revelle. Non sono alla scrivania, lasciate un messaggio.
+
+2
+00:00:06,730 --> 00:00:13,770
+Ciao Tom, sono Curtis. Ti chiamo solo per dirti che il documento Veneman sarà finito in tempo, e lo pubblico subito.
+
+3
+00:00:14,130 --> 00:00:14,750
+Va bene, grazie.

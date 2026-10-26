@@ -1,0 +1,23 @@
+1
+00:00:13,490 --> 00:00:15,470
+Studio del dottor Ricky Harburg. Come posso aiutarla?
+
+2
+00:00:15,690 --> 00:00:21,850
+Salve, mi chiamo Curtis Craig e mi hanno indirizzato dal dottor Harburg
+
+3
+00:00:21,850 --> 00:00:24,210
+e volevo sapere se potevo fissare un appuntamento.
+
+4
+00:00:25,370 --> 00:00:29,595
+Certo. Oggi abbiamo una disdetta alle 5:30.
+
+5
+00:00:33,140 --> 00:00:34,160
+Va bene, credo.
+
+6
+00:00:34,840 --> 00:00:37,720
+Perfetto. A presto, signor Craig. Arrivederci.

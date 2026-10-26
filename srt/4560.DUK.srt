@@ -1,0 +1,23 @@
+1
+00:00:01,650 --> 00:00:02,490
+Ciao, Joss.
+
+2
+00:00:05,820 --> 00:00:06,600
+Ciao, Curtis.
+
+3
+00:00:07,480 --> 00:00:11,300
+Senti, mi dispiace tantissimo per ieri, sono stato uno stronzo.
+
+4
+00:00:12,300 --> 00:00:14,320
+Ero piuttosto sconvolto, credo.
+
+5
+00:00:15,840 --> 00:00:17,080
+Lo eravamo tutti.
+
+6
+00:00:18,020 --> 00:00:18,660
+Non fa niente.

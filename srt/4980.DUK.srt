@@ -1,0 +1,7 @@
+1
+00:00:00,880 --> 00:00:04,660
+Tom, Tom, lo giuro su Dio, non è stata colpa mia.
+
+2
+00:00:06,140 --> 00:00:07,480
+Tom, non è stata colpa mia.

@@ -1,0 +1,11 @@
+1
+00:00:08,080 --> 00:00:08,880
+Fuori di qui.
+
+2
+00:00:10,240 --> 00:00:12,240
+Fermo. Questo è un club privato.
+
+3
+00:00:12,520 --> 00:00:14,000
+Bisogna conoscere qualcuno per entrare.

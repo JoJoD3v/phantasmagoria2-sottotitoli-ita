@@ -1,0 +1,43 @@
+1
+00:00:00,000 --> 00:00:03,100
+Cosa faceva ieri sera tra le 20 e mezzanotte?
+
+2
+00:00:03,900 --> 00:00:06,320
+Ero qui con Therese Banning.
+
+3
+00:00:06,880 --> 00:00:09,180
+Davvero? Fino a che ora è rimasta?
+
+4
+00:00:10,340 --> 00:00:11,540
+Non so. Tardi.
+
+5
+00:00:12,420 --> 00:00:19,045
+Io, ehm, sono andato a letto, e quando mi sono svegliato lei non c'era più.
+
+6
+00:00:24,300 --> 00:00:25,200
+Dov'è adesso?
+
+7
+00:00:27,140 --> 00:00:27,900
+Non lo so.
+
+8
+00:00:32,740 --> 00:00:35,990
+Craig, ho detto, dov'è adesso?
+
+9
+00:00:37,320 --> 00:00:38,200
+Non lo so.
+
+10
+00:00:39,140 --> 00:00:40,080
+Probabilmente è tornata a casa.
+
+11
+00:00:40,220 --> 00:00:41,340
+Non so dove abiti.

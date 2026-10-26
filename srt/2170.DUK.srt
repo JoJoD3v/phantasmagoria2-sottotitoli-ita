@@ -1,0 +1,23 @@
+1
+00:00:09,260 --> 00:00:11,340
+Studio del dottor Ricky Harburg. Come posso aiutarla?
+
+2
+00:00:11,600 --> 00:00:16,520
+Salve, sono Curtis Craig e volevo sapere se posso vedere il dottor Harburg oggi.
+
+3
+00:00:18,400 --> 00:00:19,700
+Ho dei problemi.
+
+4
+00:00:20,200 --> 00:00:23,240
+Il dottore oggi è molto impegnato.
+
+5
+00:00:24,160 --> 00:00:28,000
+Oh, è fortunato. Possiamo fissarle una visita breve oggi pomeriggio alle 3.
+
+6
+00:00:28,840 --> 00:00:30,640
+Perfetto. Grazie mille.

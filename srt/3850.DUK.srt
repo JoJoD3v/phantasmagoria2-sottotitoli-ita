@@ -1,0 +1,31 @@
+1
+00:00:01,100 --> 00:00:03,720
+Tom, ehi, mi dispiace molto di essere in ritardo.
+
+2
+00:00:05,180 --> 00:00:08,240
+Sembrerà stupido, ma il mio topo mi ha rubato il portafoglio.
+
+3
+00:00:10,680 --> 00:00:11,700
+Almeno è originale.
+
+4
+00:00:13,690 --> 00:00:15,710
+Hai l'aria stanca, Curtis. Stai bene?
+
+5
+00:00:16,070 --> 00:00:20,290
+Sì, sto bene. È solo che ultimamente dormo poco, tutto qui.
+
+6
+00:00:20,910 --> 00:00:24,610
+Se hai mai qualche problema, Curtis, spero tu sappia che puoi venire da me.
+
+7
+00:00:25,550 --> 00:00:28,310
+Sei un ottimo dipendente e ti aiuterò sempre, se posso.
+
+8
+00:00:28,430 --> 00:00:28,930
+Oh, grazie.

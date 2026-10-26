@@ -1,0 +1,7 @@
+1
+00:00:07,470 --> 00:00:09,010
+Cavolo, ho cambiato la password.
+
+2
+00:00:10,390 --> 00:00:11,330
+Accidenti, qual era?

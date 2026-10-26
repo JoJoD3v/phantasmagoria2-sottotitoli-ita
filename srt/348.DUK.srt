@@ -1,0 +1,3 @@
+1
+00:00:01,100 --> 00:00:03,360
+Silenzio in fondo alla sala! Silenzio in fondo alla sala!

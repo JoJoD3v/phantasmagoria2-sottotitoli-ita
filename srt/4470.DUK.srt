@@ -1,0 +1,7 @@
+1
+00:00:03,150 --> 00:00:07,750
+Salve, signor Warner, sono Tom. Abbiamo bisogno di lei subito nella sala conferenze del quarto piano.
+
+2
+00:00:09,150 --> 00:00:09,650
+Uh-huh.

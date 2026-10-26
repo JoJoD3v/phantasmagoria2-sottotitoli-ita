@@ -1,0 +1,3 @@
+1
+00:00:04,340 --> 00:00:06,400
+Ecco il mio portafoglio, Blob.

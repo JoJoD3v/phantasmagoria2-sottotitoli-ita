@@ -1,0 +1,27 @@
+1
+00:00:00,750 --> 00:00:04,710
+Bene, Curtis, la seduta è finita, ma credo ci sia molto lavoro da fare.
+
+2
+00:00:05,050 --> 00:00:06,770
+Che ne dice di tornare domani?
+
+3
+00:00:08,350 --> 00:00:09,990
+Oh, va bene, credo.
+
+4
+00:00:10,470 --> 00:00:12,070
+Perfetto. Ci vediamo allora.
+
+5
+00:00:12,250 --> 00:00:13,290
+Va bene. Grazie, dottoressa Harburg.
+
+6
+00:00:13,330 --> 00:00:15,270
+Si figuri. Buona serata.
+
+7
+00:00:15,350 --> 00:00:15,850
+Anche a lei.

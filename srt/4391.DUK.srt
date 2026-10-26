@@ -1,0 +1,27 @@
+1
+00:00:00,000 --> 00:00:06,025
+Nel caso non l'abbia notato, questa è una scena del crimine attiva.
+
+2
+00:01:03,720 --> 00:01:04,220
+Indietro.
+
+3
+00:01:10,420 --> 00:01:11,240
+Il suo nome, signore?
+
+4
+00:01:12,100 --> 00:01:12,700
+Curtis Craig.
+
+5
+00:01:18,960 --> 00:01:19,800
+È il suo cubicolo?
+
+6
+00:01:21,990 --> 00:01:22,990
+Detective Allie Powell.
+
+7
+00:01:23,510 --> 00:01:24,750
+Vorrei farle qualche domanda.

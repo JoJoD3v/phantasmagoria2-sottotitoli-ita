@@ -1,0 +1,27 @@
+1
+00:00:00,500 --> 00:00:03,680
+Ho saputo dell'omicidio di Tom Revell, Curtis. È per questo che sei venuto?
+
+2
+00:00:04,820 --> 00:00:05,320
+Sì.
+
+3
+00:00:06,500 --> 00:00:08,120
+Quella storia mi ha scosso, non so perché.
+
+4
+00:00:10,840 --> 00:00:12,580
+Un attimo. Come fa a sapere di Tom?
+
+5
+00:00:13,500 --> 00:00:15,500
+Cosa, la WynTech sta cercando di controllarmi?
+
+6
+00:00:15,840 --> 00:00:19,440
+No, per niente, Curtis. Il detective Powell è passato a parlarmi stamattina.
+
+7
+00:00:20,140 --> 00:00:22,760
+Ah. Non so perché, ma mi fa sentire un po' meglio.

@@ -1,0 +1,31 @@
+1
+00:00:01,650 --> 00:00:06,400
+Un tizio con cui lavoro, Bob, è stato ucciso oggi.
+
+2
+00:00:09,840 --> 00:00:11,340
+E non intendo solo un colpo in testa.
+
+3
+00:00:11,380 --> 00:00:15,530
+Era spiaccicato per tutto il mio cubicolo.
+
+4
+00:00:15,770 --> 00:00:16,590
+Oh, mio Dio.
+
+5
+00:00:16,770 --> 00:00:18,590
+Curtis, come si sente a riguardo?
+
+6
+00:00:19,150 --> 00:00:21,850
+Il problema è proprio questo, dottoressa.
+
+7
+00:00:22,250 --> 00:00:24,525
+Non sento niente.
+
+8
+00:00:30,000 --> 00:00:31,320
+Non sento proprio niente.

@@ -1,0 +1,35 @@
+1
+00:00:00,850 --> 00:00:02,350
+Chi è?
+
+2
+00:00:28,000 --> 00:00:28,500
+Therese?
+
+3
+00:00:29,600 --> 00:00:30,800
+Come hai fatto a entrare?
+
+4
+00:00:31,660 --> 00:00:33,300
+Sono una donna dai molti talenti.
+
+5
+00:00:36,840 --> 00:00:38,080
+Curtis, vieni a sederti con me.
+
+6
+00:00:46,520 --> 00:00:47,360
+Sei qui da molto?
+
+7
+00:00:48,200 --> 00:00:49,880
+Abbastanza da conoscere il tuo topo.
+
+8
+00:00:53,880 --> 00:00:54,880
+È proprio un tesoro.
+
+9
+00:00:57,650 --> 00:00:58,150
+Grazie.

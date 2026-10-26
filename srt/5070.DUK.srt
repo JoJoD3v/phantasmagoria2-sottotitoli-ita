@@ -1,0 +1,19 @@
+1
+00:00:02,800 --> 00:00:03,760
+Sono Jocelyn.
+
+2
+00:00:04,200 --> 00:00:05,380
+Grazie per ieri notte.
+
+3
+00:00:05,740 --> 00:00:08,180
+Oh, grazie a lei, signor Warner. È stato grande.
+
+4
+00:00:08,480 --> 00:00:08,980
+Ehi!
+
+5
+00:00:09,360 --> 00:00:12,440
+Oh, sei tu, Curtis. Beh, anche tu non sei stato male.

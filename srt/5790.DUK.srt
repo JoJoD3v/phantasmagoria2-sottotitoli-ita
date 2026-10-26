@@ -1,0 +1,11 @@
+1
+00:00:00,370 --> 00:00:01,370
+Chi sei?
+
+2
+00:00:02,370 --> 00:00:04,370
+Solo un testimone dei tuoi crimini.
+
+3
+00:00:05,370 --> 00:00:06,370
+Con chi sta parlando?

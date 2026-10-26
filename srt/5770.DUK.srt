@@ -1,0 +1,11 @@
+1
+00:00:00,050 --> 00:00:03,130
+Detective, che arma è stata usata per ridurre Bob così?
+
+2
+00:00:03,290 --> 00:00:04,650
+Armi, signor Craig.
+
+3
+00:00:05,710 --> 00:00:10,570
+Diversi X-Acto, un taglierino e una pesante cucitrice industriale.

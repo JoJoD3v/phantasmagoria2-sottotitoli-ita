@@ -1,0 +1,19 @@
+1
+00:00:01,010 --> 00:00:04,635
+Pronto, sono Curtis Craig, e sto...
+
+2
+00:00:06,510 --> 00:00:07,190
+Ciao, Curtis.
+
+3
+00:00:09,070 --> 00:00:09,910
+Chi sei?
+
+4
+00:00:11,050 --> 00:00:12,790
+Scusa, amico, non posso parlare adesso.
+
+5
+00:00:12,870 --> 00:00:14,630
+Sono nel bel mezzo di una vera battaglia con qualcosa.

@@ -1,0 +1,11 @@
+1
+00:00:00,210 --> 00:00:03,210
+Beh, è meglio che vada. Ho un sacco di roba da fare.
+
+2
+00:00:03,210 --> 00:00:05,210
+A dopo, amico. Stammi bene, ok?
+
+3
+00:00:05,210 --> 00:00:06,210
+D'accordo.

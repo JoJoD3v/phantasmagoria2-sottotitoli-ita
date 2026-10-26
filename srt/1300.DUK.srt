@@ -1,0 +1,15 @@
+1
+00:00:01,070 --> 00:00:05,070
+Ehi, buongiorno, Blob. Come va oggi, eh?
+
+2
+00:00:07,080 --> 00:00:09,080
+Ehi, come stai?
+
+3
+00:00:09,640 --> 00:00:11,640
+Ti stai costruendo una casetta lì dentro, eh?
+
+4
+00:00:12,700 --> 00:00:14,700
+Va bene, ti lascio tornare al lavoro.
